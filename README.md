@@ -10,7 +10,7 @@ Step 5: Set required number of frames in the time line chart.</br>
 Step 6: Open the time graph and adjust the y-axis so the bouncing ball animation looks smoother.</br>
 
 ### Output:
-Youtube :- https://youtu.be/-TT1f0mWG_4
+Youtube :- https://youtu.be/1vrRZS4pZ94
 
 ### Result:
 Therefore a bouncing ball animation is created using Maya.
